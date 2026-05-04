@@ -32,7 +32,13 @@ Doomai is designed with a strong focus on user privacy and local processing. Thi
 
 - Doomai uses open-source AI models distributed via Ollama (https://ollama.com).
 - The app comes prebuilt with the **LLaMA 3.2 3B** model.
-- All models operate locally on the device and are not connected to external services.
+
+- **Model availability notice**  
+  Only the LLaMA 3.2 3B model is included with the application by default.  
+  Additional models may be available for download within the app, but their availability depends on external factors, including Ollama service status, distribution policies, and model provider restrictions.  
+  Doomai does not guarantee the availability of any additional models.
+
+- All models operate locally on the device and are not connected to external services once installed.
 
 ---
 
