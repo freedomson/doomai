@@ -42,7 +42,14 @@ Doomai is designed with a strong focus on user privacy and local processing. Thi
 
 ---
 
-## 5. Responsibility and Liability
+## 5. Age Requirement
+
+- Doomai is intended for users **16 years of age or older**.  
+- By using this application, you confirm that you meet the minimum age requirement in your country or jurisdiction.
+
+---
+
+## 6. Responsibility and Liability
 
 - **No responsibility for usage**  
   The developers are not responsible for how users interact with or use the application.
@@ -58,6 +65,6 @@ Doomai is designed with a strong focus on user privacy and local processing. Thi
 
 ---
 
-## 6. Acceptance of Terms
+## 7. Acceptance of Terms
 
 By using Doomai, you acknowledge and agree to this Privacy Policy and Disclaimer.
